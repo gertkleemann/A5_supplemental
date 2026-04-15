@@ -1,0 +1,23 @@
+{
+  "title": "A\u2084 subgroup transfer matrix sector",
+  "subgroup": "A\u2084",
+  "irreps_used": [
+    "\u03c7\u2081(1)",
+    "\u03c7\u2083(3)",
+    "\u03c7\u2083'(3)",
+    "\u03c7\u2085(5)"
+  ],
+  "n_irreps": 4,
+  "dims": [
+    1,
+    3,
+    3,
+    5
+  ],
+  "sum_dim_sq": 44,
+  "n_face_configs": 1024,
+  "3j_nonzero": 31,
+  "mass_gap": 2.295,
+  "mass_MeV": 761.9,
+  "match": "\u03c1 meson (775 MeV, 1.7%)"
+}

@@ -1,0 +1,124 @@
+{
+  "title": "Plancherel action S(C) = (1/|A\u2085|) \u03a3_\u03c1 dim(\u03c1)(dim(\u03c1) - \u03c7_\u03c1(C))",
+  "theorem": "S(C) = 1 for all non-trivial conjugacy classes",
+  "values": {
+    "{e}": 0.0,
+    "C\u2082": 1.0,
+    "C\u2083": 1.0,
+    "C\u2085": 1.0,
+    "C\u2085'": 1.0
+  },
+  "S_identity": 0.0,
+  "S_nontrivial_all_equal_1": true,
+  "per_irrep_contributions": {
+    "C\u2082": {
+      "\u03c7\u2081(1)": {
+        "beta_rho": 0.016667,
+        "gap": 0.0,
+        "contribution": 0.0
+      },
+      "\u03c7\u2083(3)": {
+        "beta_rho": 0.15,
+        "gap": 1.333333,
+        "contribution": 0.2
+      },
+      "\u03c7\u2083'(3)": {
+        "beta_rho": 0.15,
+        "gap": 1.333333,
+        "contribution": 0.2
+      },
+      "\u03c7\u2084(4)": {
+        "beta_rho": 0.266667,
+        "gap": 1.0,
+        "contribution": 0.266667
+      },
+      "\u03c7\u2085(5)": {
+        "beta_rho": 0.416667,
+        "gap": 0.8,
+        "contribution": 0.333333
+      }
+    },
+    "C\u2083": {
+      "\u03c7\u2081(1)": {
+        "beta_rho": 0.016667,
+        "gap": 0.0,
+        "contribution": 0.0
+      },
+      "\u03c7\u2083(3)": {
+        "beta_rho": 0.15,
+        "gap": 1.0,
+        "contribution": 0.15
+      },
+      "\u03c7\u2083'(3)": {
+        "beta_rho": 0.15,
+        "gap": 1.0,
+        "contribution": 0.15
+      },
+      "\u03c7\u2084(4)": {
+        "beta_rho": 0.266667,
+        "gap": 0.75,
+        "contribution": 0.2
+      },
+      "\u03c7\u2085(5)": {
+        "beta_rho": 0.416667,
+        "gap": 1.2,
+        "contribution": 0.5
+      }
+    },
+    "C\u2085": {
+      "\u03c7\u2081(1)": {
+        "beta_rho": 0.016667,
+        "gap": 0.0,
+        "contribution": 0.0
+      },
+      "\u03c7\u2083(3)": {
+        "beta_rho": 0.15,
+        "gap": 0.460655,
+        "contribution": 0.069098
+      },
+      "\u03c7\u2083'(3)": {
+        "beta_rho": 0.15,
+        "gap": 1.206011,
+        "contribution": 0.180902
+      },
+      "\u03c7\u2084(4)": {
+        "beta_rho": 0.266667,
+        "gap": 1.25,
+        "contribution": 0.333333
+      },
+      "\u03c7\u2085(5)": {
+        "beta_rho": 0.416667,
+        "gap": 1.0,
+        "contribution": 0.416667
+      }
+    },
+    "C\u2085'": {
+      "\u03c7\u2081(1)": {
+        "beta_rho": 0.016667,
+        "gap": 0.0,
+        "contribution": 0.0
+      },
+      "\u03c7\u2083(3)": {
+        "beta_rho": 0.15,
+        "gap": 1.206011,
+        "contribution": 0.180902
+      },
+      "\u03c7\u2083'(3)": {
+        "beta_rho": 0.15,
+        "gap": 0.460655,
+        "contribution": 0.069098
+      },
+      "\u03c7\u2084(4)": {
+        "beta_rho": 0.266667,
+        "gap": 1.25,
+        "contribution": 0.333333
+      },
+      "\u03c7\u2085(5)": {
+        "beta_rho": 0.416667,
+        "gap": 1.0,
+        "contribution": 0.416667
+      }
+    }
+  },
+  "physical_meaning": "Uniform curvature = de Sitter vacuum = vacuum Einstein equation"
+}

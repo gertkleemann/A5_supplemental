@@ -1,0 +1,799 @@
+{
+  "n_matrix": 3125,
+  "n_positive_evals": 1536,
+  "T_max": 1.8895155437367153e+27,
+  "n_portal_states": 98,
+  "portal_states": [
+    {
+      "state": 1,
+      "mass_MeV": 1440.7,
+      "chi4_pct": 24.1,
+      "chi5_pct": 60.3,
+      "chi3_pct": 6.9,
+      "mixing_amplitude": 0.381671
+    },
+    {
+      "state": 3,
+      "mass_MeV": 1526.9,
+      "chi4_pct": 19.9,
+      "chi5_pct": 53.9,
+      "chi3_pct": 12.1,
+      "mixing_amplitude": 0.327275
+    },
+    {
+      "state": 5,
+      "mass_MeV": 1603.5,
+      "chi4_pct": 30.8,
+      "chi5_pct": 35.6,
+      "chi3_pct": 16.2,
+      "mixing_amplitude": 0.3312
+    },
+    {
+      "state": 7,
+      "mass_MeV": 1837.5,
+      "chi4_pct": 28.7,
+      "chi5_pct": 42.1,
+      "chi3_pct": 14.3,
+      "mixing_amplitude": 0.347986
+    },
+    {
+      "state": 11,
+      "mass_MeV": 2677.1,
+      "chi4_pct": 27.9,
+      "chi5_pct": 50.9,
+      "chi3_pct": 9.3,
+      "mixing_amplitude": 0.376748
+    },
+    {
+      "state": 12,
+      "mass_MeV": 2857.1,
+      "chi4_pct": 16.8,
+      "chi5_pct": 56.2,
+      "chi3_pct": 12.7,
+      "mixing_amplitude": 0.307442
+    },
+    {
+      "state": 15,
+      "mass_MeV": 2950.6,
+      "chi4_pct": 27.9,
+      "chi5_pct": 36.1,
+      "chi3_pct": 17.4,
+      "mixing_amplitude": 0.317338
+    },
+    {
+      "state": 16,
+      "mass_MeV": 3347.4,
+      "chi4_pct": 26.4,
+      "chi5_pct": 46.8,
+      "chi3_pct": 9.4,
+      "mixing_amplitude": 0.351626
+    },
+    {
+      "state": 18,
+      "mass_MeV": 3402.3,
+      "chi4_pct": 30.3,
+      "chi5_pct": 39.7,
+      "chi3_pct": 14.3,
+      "mixing_amplitude": 0.346945
+    },
+    {
+      "state": 21,
+      "mass_MeV": 3537.5,
+      "chi4_pct": 29.0,
+      "chi5_pct": 41.0,
+      "chi3_pct": 7.4,
+      "mixing_amplitude": 0.344943
+    },
+    {
+      "state": 23,
+      "mass_MeV": 3587.3,
+      "chi4_pct": 29.9,
+      "chi5_pct": 39.3,
+      "chi3_pct": 8.2,
+      "mixing_amplitude": 0.342872
+    },
+    {
+      "state": 24,
+      "mass_MeV": 3598.9,
+      "chi4_pct": 30.4,
+      "chi5_pct": 31.6,
+      "chi3_pct": 17.0,
+      "mixing_amplitude": 0.309555
+    },
+    {
+      "state": 25,
+      "mass_MeV": 3655.5,
+      "chi4_pct": 17.2,
+      "chi5_pct": 40.7,
+      "chi3_pct": 17.8,
+      "mixing_amplitude": 0.264835
+    },
+    {
+      "state": 29,
+      "mass_MeV": 3696.6,
+      "chi4_pct": 26.0,
+      "chi5_pct": 34.8,
+      "chi3_pct": 14.0,
+      "mixing_amplitude": 0.300491
+    },
+    {
+      "state": 31,
+      "mass_MeV": 3714.8,
+      "chi4_pct": 23.8,
+      "chi5_pct": 28.6,
+      "chi3_pct": 19.9,
+      "mixing_amplitude": 0.260783
+    },
+    {
+      "state": 33,
+      "mass_MeV": 3721.8,
+      "chi4_pct": 23.2,
+      "chi5_pct": 39.4,
+      "chi3_pct": 13.2,
+      "mixing_amplitude": 0.302335
+    },
+    {
+      "state": 35,
+      "mass_MeV": 3781.0,
+      "chi4_pct": 25.8,
+      "chi5_pct": 28.6,
+      "chi3_pct": 18.1,
+      "mixing_amplitude": 0.271408
+    },
+    {
+      "state": 36,
+      "mass_MeV": 3815.6,
+      "chi4_pct": 17.1,
+      "chi5_pct": 46.4,
+      "chi3_pct": 12.2,
+      "mixing_amplitude": 0.281871
+    },
+    {
+      "state": 38,
+      "mass_MeV": 3878.1,
+      "chi4_pct": 21.0,
+      "chi5_pct": 35.6,
+      "chi3_pct": 16.5,
+      "mixing_amplitude": 0.273303
+    },
+    {
+      "state": 39,
+      "mass_MeV": 3882.7,
+      "chi4_pct": 21.4,
+      "chi5_pct": 34.8,
+      "chi3_pct": 17.5,
+      "mixing_amplitude": 0.272721
+    },
+    {
+      "state": 42,
+      "mass_MeV": 3900.2,
+      "chi4_pct": 17.6,
+      "chi5_pct": 41.3,
+      "chi3_pct": 14.8,
+      "mixing_amplitude": 0.269296
+    },
+    {
+      "state": 43,
+      "mass_MeV": 3910.9,
+      "chi4_pct": 16.1,
+      "chi5_pct": 44.6,
+      "chi3_pct": 14.8,
+      "mixing_amplitude": 0.268333
+    },
+    {
+      "state": 45,
+      "mass_MeV": 3921.8,
+      "chi4_pct": 25.5,
+      "chi5_pct": 30.8,
+      "chi3_pct": 18.2,
+      "mixing_amplitude": 0.280624
+    },
+    {
+      "state": 48,
+      "mass_MeV": 3949.2,
+      "chi4_pct": 20.9,
+      "chi5_pct": 30.5,
+      "chi3_pct": 21.4,
+      "mixing_amplitude": 0.252617
+    },
+    {
+      "state": 50,
+      "mass_MeV": 3971.3,
+      "chi4_pct": 22.1,
+      "chi5_pct": 31.5,
+      "chi3_pct": 19.1,
+      "mixing_amplitude": 0.263733
+    },
+    {
+      "state": 51,
+      "mass_MeV": 3972.2,
+      "chi4_pct": 23.2,
+      "chi5_pct": 32.9,
+      "chi3_pct": 18.4,
+      "mixing_amplitude": 0.276535
+    },
+    {
+      "state": 54,
+      "mass_MeV": 4019.8,
+      "chi4_pct": 21.9,
+      "chi5_pct": 32.0,
+      "chi3_pct": 19.2,
+      "mixing_amplitude": 0.264615
+    },
+    {
+      "state": 55,
+      "mass_MeV": 4023.4,
+      "chi4_pct": 21.6,
+      "chi5_pct": 29.1,
+      "chi3_pct": 19.3,
+      "mixing_amplitude": 0.250312
+    },
+    {
+      "state": 57,
+      "mass_MeV": 4122.6,
+      "chi4_pct": 22.2,
+      "chi5_pct": 28.2,
+      "chi3_pct": 20.7,
+      "mixing_amplitude": 0.250241
+    },
+    {
+      "state": 61,
+      "mass_MeV": 4281.9,
+      "chi4_pct": 23.3,
+      "chi5_pct": 35.3,
+      "chi3_pct": 17.1,
+      "mixing_amplitude": 0.28677
+    },
+    {
+      "state": 62,
+      "mass_MeV": 4403.6,
+      "chi4_pct": 23.9,
+      "chi5_pct": 43.1,
+      "chi3_pct": 12.1,
+      "mixing_amplitude": 0.320932
+    },
+    {
+      "state": 65,
+      "mass_MeV": 4441.3,
+      "chi4_pct": 29.4,
+      "chi5_pct": 29.6,
+      "chi3_pct": 17.8,
+      "mixing_amplitude": 0.295062
+    },
+    {
+      "state": 67,
+      "mass_MeV": 4463.6,
+      "chi4_pct": 21.4,
+      "chi5_pct": 40.5,
+      "chi3_pct": 15.7,
+      "mixing_amplitude": 0.294125
+    },
+    {
+      "state": 68,
+      "mass_MeV": 4515.6,
+      "chi4_pct": 32.5,
+      "chi5_pct": 27.5,
+      "chi3_pct": 17.4,
+      "mixing_amplitude": 0.298969
+    },
+    {
+      "state": 69,
+      "mass_MeV": 4539.9,
+      "chi4_pct": 19.5,
+      "chi5_pct": 40.9,
+      "chi3_pct": 16.5,
+      "mixing_amplitude": 0.282354
+    },
+    {
+      "state": 73,
+      "mass_MeV": 4628.9,
+      "chi4_pct": 29.5,
+      "chi5_pct": 37.5,
+      "chi3_pct": 13.2,
+      "mixing_amplitude": 0.332844
+    },
+    {
+      "state": 75,
+      "mass_MeV": 4684.3,
+      "chi4_pct": 31.8,
+      "chi5_pct": 28.3,
+      "chi3_pct": 17.4,
+      "mixing_amplitude": 0.300162
+    },
+    {
+      "state": 77,
+      "mass_MeV": 4758.9,
+      "chi4_pct": 31.5,
+      "chi5_pct": 35.6,
+      "chi3_pct": 10.8,
+      "mixing_amplitude": 0.335131
+    },
+    {
+      "state": 79,
+      "mass_MeV": 4892.0,
+      "chi4_pct": 33.6,
+      "chi5_pct": 33.9,
+      "chi3_pct": 13.8,
+      "mixing_amplitude": 0.337798
+    },
+    {
+      "state": 80,
+      "mass_MeV": 5065.9,
+      "chi4_pct": 27.4,
+      "chi5_pct": 49.6,
+      "chi3_pct": 9.0,
+      "mixing_amplitude": 0.368621
+    },
+    {
+      "state": 83,
+      "mass_MeV": 5124.5,
+      "chi4_pct": 26.6,
+      "chi5_pct": 44.5,
+      "chi3_pct": 12.2,
+      "mixing_amplitude": 0.344364
+    },
+    {
+      "state": 84,
+      "mass_MeV": 5249.6,
+      "chi4_pct": 27.9,
+      "chi5_pct": 40.2,
+      "chi3_pct": 12.7,
+      "mixing_amplitude": 0.334957
+    },
+    {
+      "state": 86,
+      "mass_MeV": 5299.5,
+      "chi4_pct": 18.8,
+      "chi5_pct": 46.0,
+      "chi3_pct": 15.7,
+      "mixing_amplitude": 0.294402
+    },
+    {
+      "state": 88,
+      "mass_MeV": 5318.0,
+      "chi4_pct": 19.8,
+      "chi5_pct": 43.7,
+      "chi3_pct": 16.0,
+      "mixing_amplitude": 0.294211
+    },
+    {
+      "state": 90,
+      "mass_MeV": 5370.4,
+      "chi4_pct": 31.3,
+      "chi5_pct": 29.1,
+      "chi3_pct": 18.3,
+      "mixing_amplitude": 0.301346
+    },
+    {
+      "state": 92,
+      "mass_MeV": 5381.2,
+      "chi4_pct": 30.8,
+      "chi5_pct": 30.0,
+      "chi3_pct": 18.0,
+      "mixing_amplitude": 0.304134
+    },
+    {
+      "state": 94,
+      "mass_MeV": 5487.1,
+      "chi4_pct": 8.7,
+      "chi5_pct": 48.5,
+      "chi3_pct": 19.4,
+      "mixing_amplitude": 0.20562
+    },
+    {
+      "state": 96,
+      "mass_MeV": 5580.7,
+      "chi4_pct": 21.2,
+      "chi5_pct": 28.3,
+      "chi3_pct": 24.0,
+      "mixing_amplitude": 0.24496
+    },
+    {
+      "state": 99,
+      "mass_MeV": 5586.9,
+      "chi4_pct": 20.8,
+      "chi5_pct": 27.9,
+      "chi3_pct": 24.4,
+      "mixing_amplitude": 0.240909
+    },
+    {
+      "state": 102,
+      "mass_MeV": 5639.6,
+      "chi4_pct": 23.0,
+      "chi5_pct": 44.3,
+      "chi3_pct": 14.0,
+      "mixing_amplitude": 0.318809
+    },
+    {
+      "state": 103,
+      "mass_MeV": 5642.4,
+      "chi4_pct": 26.1,
+      "chi5_pct": 37.9,
+      "chi3_pct": 17.1,
+      "mixing_amplitude": 0.314913
+    },
+    {
+      "state": 104,
+      "mass_MeV": 5644.6,
+      "chi4_pct": 31.5,
+      "chi5_pct": 14.9,
+      "chi3_pct": 25.5,
+      "mixing_amplitude": 0.217023
+    },
+    {
+      "state": 107,
+      "mass_MeV": 5744.3,
+      "chi4_pct": 30.1,
+      "chi5_pct": 41.1,
+      "chi3_pct": 7.3,
+      "mixing_amplitude": 0.351478
+    },
+    {
+      "state": 109,
+      "mass_MeV": 5781.2,
+      "chi4_pct": 29.6,
+      "chi5_pct": 32.5,
+      "chi3_pct": 15.2,
+      "mixing_amplitude": 0.309857
+    },
+    {
+      "state": 110,
+      "mass_MeV": 5789.5,
+      "chi4_pct": 33.5,
+      "chi5_pct": 33.2,
+      "chi3_pct": 15.3,
+      "mixing_amplitude": 0.333411
+    },
+    {
+      "state": 112,
+      "mass_MeV": 5862.2,
+      "chi4_pct": 22.8,
+      "chi5_pct": 17.4,
+      "chi3_pct": 23.7,
+      "mixing_amplitude": 0.199168
+    },
+    {
+      "state": 115,
+      "mass_MeV": 5873.4,
+      "chi4_pct": 28.4,
+      "chi5_pct": 21.8,
+      "chi3_pct": 19.1,
+      "mixing_amplitude": 0.248632
+    },
+    {
+      "state": 117,
+      "mass_MeV": 5963.8,
+      "chi4_pct": 27.6,
+      "chi5_pct": 17.5,
+      "chi3_pct": 24.5,
+      "mixing_amplitude": 0.219834
+    },
+    {
+      "state": 119,
+      "mass_MeV": 5988.8,
+      "chi4_pct": 22.5,
+      "chi5_pct": 31.5,
+      "chi3_pct": 21.0,
+      "mixing_amplitude": 0.266381
+    },
+    {
+      "state": 121,
+      "mass_MeV": 5993.1,
+      "chi4_pct": 22.6,
+      "chi5_pct": 30.9,
+      "chi3_pct": 21.7,
+      "mixing_amplitude": 0.264484
+    },
+    {
+      "state": 123,
+      "mass_MeV": 5999.5,
+      "chi4_pct": 20.0,
+      "chi5_pct": 35.4,
+      "chi3_pct": 15.7,
+      "mixing_amplitude": 0.265982
+    },
+    {
+      "state": 125,
+      "mass_MeV": 6030.5,
+      "chi4_pct": 19.8,
+      "chi5_pct": 31.9,
+      "chi3_pct": 17.7,
+      "mixing_amplitude": 0.251156
+    },
+    {
+      "state": 127,
+      "mass_MeV": 6039.0,
+      "chi4_pct": 15.9,
+      "chi5_pct": 33.1,
+      "chi3_pct": 18.0,
+      "mixing_amplitude": 0.229506
+    },
+    {
+      "state": 129,
+      "mass_MeV": 6048.6,
+      "chi4_pct": 28.1,
+      "chi5_pct": 18.1,
+      "chi3_pct": 23.6,
+      "mixing_amplitude": 0.225741
+    },
+    {
+      "state": 132,
+      "mass_MeV": 6067.2,
+      "chi4_pct": 17.3,
+      "chi5_pct": 24.2,
+      "chi3_pct": 22.6,
+      "mixing_amplitude": 0.204352
+    },
+    {
+      "state": 133,
+      "mass_MeV": 6070.4,
+      "chi4_pct": 26.5,
+      "chi5_pct": 18.3,
+      "chi3_pct": 20.4,
+      "mixing_amplitude": 0.220578
+    },
+    {
+      "state": 135,
+      "mass_MeV": 6082.2,
+      "chi4_pct": 17.2,
+      "chi5_pct": 22.7,
+      "chi3_pct": 23.4,
+      "mixing_amplitude": 0.197662
+    },
+    {
+      "state": 137,
+      "mass_MeV": 6102.5,
+      "chi4_pct": 30.9,
+      "chi5_pct": 16.2,
+      "chi3_pct": 22.3,
+      "mixing_amplitude": 0.223432
+    },
+    {
+      "state": 138,
+      "mass_MeV": 6121.6,
+      "chi4_pct": 16.6,
+      "chi5_pct": 30.3,
+      "chi3_pct": 20.9,
+      "mixing_amplitude": 0.224434
+    },
+    {
+      "state": 141,
+      "mass_MeV": 6147.2,
+      "chi4_pct": 18.9,
+      "chi5_pct": 31.7,
+      "chi3_pct": 19.3,
+      "mixing_amplitude": 0.244973
+    },
+    {
+      "state": 143,
+      "mass_MeV": 6159.5,
+      "chi4_pct": 33.7,
+      "chi5_pct": 16.4,
+      "chi3_pct": 19.8,
+      "mixing_amplitude": 0.235531
+    },
+    {
+      "state": 145,
+      "mass_MeV": 6160.3,
+      "chi4_pct": 8.8,
+      "chi5_pct": 39.0,
+      "chi3_pct": 20.3,
+      "mixing_amplitude": 0.184834
+    },
+    {
+      "state": 146,
+      "mass_MeV": 6161.3,
+      "chi4_pct": 28.2,
+      "chi5_pct": 28.7,
+      "chi3_pct": 14.8,
+      "mixing_amplitude": 0.284229
+    },
+    {
+      "state": 148,
+      "mass_MeV": 6203.8,
+      "chi4_pct": 27.5,
+      "chi5_pct": 27.2,
+      "chi3_pct": 15.3,
+      "mixing_amplitude": 0.273496
+    },
+    {
+      "state": 150,
+      "mass_MeV": 6219.5,
+      "chi4_pct": 30.5,
+      "chi5_pct": 25.4,
+      "chi3_pct": 8.2,
+      "mixing_amplitude": 0.278409
+    },
+    {
+      "state": 153,
+      "mass_MeV": 6263.8,
+      "chi4_pct": 27.1,
+      "chi5_pct": 20.4,
+      "chi3_pct": 19.3,
+      "mixing_amplitude": 0.235129
+    },
+    {
+      "state": 156,
+      "mass_MeV": 6300.0,
+      "chi4_pct": 14.6,
+      "chi5_pct": 26.3,
+      "chi3_pct": 23.3,
+      "mixing_amplitude": 0.196376
+    },
+    {
+      "state": 157,
+      "mass_MeV": 6300.9,
+      "chi4_pct": 18.8,
+      "chi5_pct": 33.1,
+      "chi3_pct": 18.1,
+      "mixing_amplitude": 0.249569
+    },
+    {
+      "state": 158,
+      "mass_MeV": 6302.6,
+      "chi4_pct": 17.6,
+      "chi5_pct": 23.7,
+      "chi3_pct": 23.7,
+      "mixing_amplitude": 0.204068
+    },
+    {
+      "state": 160,
+      "mass_MeV": 6313.0,
+      "chi4_pct": 12.1,
+      "chi5_pct": 26.4,
+      "chi3_pct": 24.2,
+      "mixing_amplitude": 0.179094
+    },
+    {
+      "state": 163,
+      "mass_MeV": 6324.9,
+      "chi4_pct": 19.8,
+      "chi5_pct": 30.0,
+      "chi3_pct": 18.8,
+      "mixing_amplitude": 0.243722
+    },
+    {
+      "state": 165,
+      "mass_MeV": 6344.7,
+      "chi4_pct": 20.3,
+      "chi5_pct": 34.9,
+      "chi3_pct": 18.2,
+      "mixing_amplitude": 0.265955
+    },
+    {
+      "state": 167,
+      "mass_MeV": 6360.0,
+      "chi4_pct": 20.8,
+      "chi5_pct": 27.3,
+      "chi3_pct": 21.2,
+      "mixing_amplitude": 0.23832
+    },
+    {
+      "state": 168,
+      "mass_MeV": 6366.7,
+      "chi4_pct": 23.1,
+      "chi5_pct": 25.6,
+      "chi3_pct": 20.8,
+      "mixing_amplitude": 0.243413
+    },
+    {
+      "state": 172,
+      "mass_MeV": 6373.4,
+      "chi4_pct": 22.9,
+      "chi5_pct": 25.5,
+      "chi3_pct": 20.7,
+      "mixing_amplitude": 0.241511
+    },
+    {
+      "state": 173,
+      "mass_MeV": 6376.0,
+      "chi4_pct": 13.0,
+      "chi5_pct": 31.7,
+      "chi3_pct": 23.9,
+      "mixing_amplitude": 0.202902
+    },
+    {
+      "state": 175,
+      "mass_MeV": 6386.4,
+      "chi4_pct": 25.4,
+      "chi5_pct": 28.9,
+      "chi3_pct": 18.1,
+      "mixing_amplitude": 0.270914
+    },
+    {
+      "state": 177,
+      "mass_MeV": 6392.8,
+      "chi4_pct": 27.5,
+      "chi5_pct": 27.3,
+      "chi3_pct": 17.5,
+      "mixing_amplitude": 0.27427
+    },
+    {
+      "state": 178,
+      "mass_MeV": 6395.5,
+      "chi4_pct": 24.5,
+      "chi5_pct": 25.6,
+      "chi3_pct": 21.1,
+      "mixing_amplitude": 0.250648
+    },
+    {
+      "state": 180,
+      "mass_MeV": 6422.9,
+      "chi4_pct": 27.9,
+      "chi5_pct": 22.8,
+      "chi3_pct": 20.3,
+      "mixing_amplitude": 0.251993
+    },
+    {
+      "state": 183,
+      "mass_MeV": 6435.1,
+      "chi4_pct": 24.7,
+      "chi5_pct": 35.7,
+      "chi3_pct": 13.9,
+      "mixing_amplitude": 0.297165
+    },
+    {
+      "state": 185,
+      "mass_MeV": 6443.1,
+      "chi4_pct": 24.6,
+      "chi5_pct": 26.7,
+      "chi3_pct": 20.9,
+      "mixing_amplitude": 0.256282
+    },
+    {
+      "state": 188,
+      "mass_MeV": 6463.2,
+      "chi4_pct": 28.4,
+      "chi5_pct": 25.3,
+      "chi3_pct": 17.0,
+      "mixing_amplitude": 0.26797
+    },
+    {
+      "state": 189,
+      "mass_MeV": 6477.0,
+      "chi4_pct": 23.3,
+      "chi5_pct": 27.2,
+      "chi3_pct": 17.7,
+      "mixing_amplitude": 0.251373
+    },
+    {
+      "state": 192,
+      "mass_MeV": 6505.0,
+      "chi4_pct": 19.2,
+      "chi5_pct": 31.6,
+      "chi3_pct": 16.8,
+      "mixing_amplitude": 0.246156
+    },
+    {
+      "state": 194,
+      "mass_MeV": 6511.7,
+      "chi4_pct": 25.9,
+      "chi5_pct": 27.0,
+      "chi3_pct": 18.5,
+      "mixing_amplitude": 0.264411
+    },
+    {
+      "state": 196,
+      "mass_MeV": 6524.7,
+      "chi4_pct": 20.8,
+      "chi5_pct": 31.9,
+      "chi3_pct": 15.6,
+      "mixing_amplitude": 0.257805
+    },
+    {
+      "state": 197,
+      "mass_MeV": 6538.9,
+      "chi4_pct": 28.9,
+      "chi5_pct": 23.5,
+      "chi3_pct": 18.1,
+      "mixing_amplitude": 0.260317
+    }
+  ],
+  "config_counts": {
+    "pure_dark": 781,
+    "pure_visible": 781,
+    "mixed": 1320,
+    "neither": 243
+  },
+  "alpha_dark": 0.26666666666666666
+}

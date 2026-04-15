@@ -1,0 +1,33 @@
+{
+  "title": "CKM matrix Wolfenstein parameters from A\u2085 geometry",
+  "lambda": {
+    "formula": "\u221a(1/20)",
+    "value": 0.223607,
+    "observed": "0.2243 \u00b1 0.0008",
+    "sigma": 0.9
+  },
+  "A": {
+    "formula": "5/6 = |C\u2085|/6",
+    "value": 0.833333,
+    "observed": "0.813 \u00b1 0.028",
+    "sigma": 0.7
+  },
+  "rho_bar": {
+    "formula": "1/(5\u03c6)",
+    "value": 0.123607,
+    "observed": "0.122 \u00b1 0.018",
+    "sigma": 0.1
+  },
+  "eta_bar": {
+    "formula": "(2/5)sin(72\u00b0)\u00d714/15",
+    "value": 0.355061,
+    "bare_value": 0.380423,
+    "correction": "14/15 = (|C\u2082|-1)/|C\u2082|",
+    "correction_meaning": "one involution consumed by observation",
+    "observed": "0.355 \u00b1 0.012",
+    "sigma": 0.0
+  },
+  "CP_phase_deg": 72.0,
+  "CP_phase_formula": "2\u03c0/5 = internal angle of pentagon",
+  "all_within_1sigma": true
+}

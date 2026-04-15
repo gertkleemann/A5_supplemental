@@ -1,0 +1,26 @@
+{
+  "bosonic_125": {
+    "n_positive": 60,
+    "n_negative": 65,
+    "matches_A5_order": true,
+    "first_mass_MeV": 5659.303884031274,
+    "verdict": "Gap too large for particle masses; confirms |A\u2085| = 60 theorem"
+  },
+  "lepton_125": {
+    "first_gap_MeV": 913.0730698897415,
+    "first_gap_match": "proton",
+    "first_gap_error": 2.657455235635231,
+    "mass_ratios": {
+      "m1/m2": 0.4766207893172984,
+      "m2/m3": 0.816492388213326
+    },
+    "verdict": "Cannot extract lepton masses without photon (\u03c1\u2085); 216\u00d7216 essential"
+  },
+  "dark_fermionic_59": {
+    "bosonic_positive": 60,
+    "dark_fermionic_positive": 59,
+    "difference": 1,
+    "theorem": "59 = |A\u2085| - 1: vacuum mode forbidden for fermion-boson boundary",
+    "physical_meaning": "Fermions cross boundary only with boson; vacuum channel blocked"
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "title": "Tensor product decompositions for A\u2085 (App.B)",
+  "products": [
+    {
+      "a": "\u03c7\u2081",
+      "b": "\u03c7\u2081",
+      "multiplicities": {
+        "\u03c7\u2081": 1,
+        "\u03c7\u2083": 0,
+        "\u03c7\u2083'": 0,
+        "\u03c7\u2084": 0,
+        "\u03c7\u2085": 0
+      },
+      "decomposition": "\u03c7\u2081",
+      "dim_check": true
+    },
+    {
+      "a": "\u03c7\u2081",
+      "b": "\u03c7\u2083",
+      "multiplicities": {
+        "\u03c7\u2081": 0,
+        "\u03c7\u2083": 1,
+        "\u03c7\u2083'": 0,
+        "\u03c7\u2084": 0,
+        "\u03c7\u2085": 0
+      },
+      "decomposition": "\u03c7\u2083",
+      "dim_check": true
+    },
+    {
+      "a": "\u03c7\u2081",
+      "b": "\u03c7\u2083'",
+      "multiplicities": {
+        "\u03c7\u2081": 0,
+        "\u03c7\u2083": 0,
+        "\u03c7\u2083'": 1,
+        "\u03c7\u2084": 0,
+        "\u03c7\u2085": 0
+      },
+      "decomposition": "\u03c7\u2083'",
+      "dim_check": true
+    },
+    {
+      "a": "\u03c7\u2081",
+      "b": "\u03c7\u2084",
+      "multiplicities": {
+        "\u03c7\u2081": 0,
+        "\u03c7\u2083": 0,
+        "\u03c7\u2083'": 0,
+        "\u03c7\u2084": 1,
+        "\u03c7\u2085": 0
+      },
+      "decomposition": "\u03c7\u2084",
+      "dim_check": true
+    },
+    {
+      "a": "\u03c7\u2081",
+      "b": "\u03c7\u2085",
+      "multiplicities": {
+        "\u03c7\u2081": 0,
+        "\u03c7\u2083": 0,
+        "\u03c7\u2083'": 0,
+        "\u03c7\u2084": 0,
+        "\u03c7\u2085": 1
+      },
+      "decomposition": "\u03c7\u2085",
+      "dim_check": true
+    },
+    {
+      "a": "\u03c7\u2083",
+      "b": "\u03c7\u2083",
+      "multiplicities": {
+        "\u03c7\u2081": 1,
+        "\u03c7\u2083": 1,
+        "\u03c7\u2083'": 0,
+        "\u03c7\u2084": 0,
+        "\u03c7\u2085": 1
+      },
+      "decomposition": "\u03c7\u2081 + \u03c7\u2083 + \u03c7\u2085",
+      "dim_check": true
+    },
+    {
+      "a": "\u03c7\u2083",
+      "b": "\u03c7\u2083'",
+      "multiplicities": {
+        "\u03c7\u2081": 0,
+        "\u03c7\u2083": 0,
+        "\u03c7\u2083'": 0,
+        "\u03c7\u2084": 1,
+        "\u03c7\u2085": 1
+      },
+      "decomposition": "\u03c7\u2084 + \u03c7\u2085",
+      "dim_check": true
+    },
+    {
+      "a": "\u03c7\u2083",
+      "b": "\u03c7\u2084",
+      "multiplicities": {
+        "\u03c7\u2081": 0,
+        "\u03c7\u2083": 0,
+        "\u03c7\u2083'": 1,
+        "\u03c7\u2084": 1,
+        "\u03c7\u2085": 1
+      },
+      "decomposition": "\u03c7\u2083' + \u03c7\u2084 + \u03c7\u2085",
+      "dim_check": true
+    },
+    {
+      "a": "\u03c7\u2083",
+      "b": "\u03c7\u2085",
+      "multiplicities": {
+        "\u03c7\u2081": 0,
+        "\u03c7\u2083": 1,
+        "\u03c7\u2083'": 1,
+        "\u03c7\u2084": 1,
+        "\u03c7\u2085": 1
+      },
+      "decomposition": "\u03c7\u2083 + \u03c7\u2083' + \u03c7\u2084 + \u03c7\u2085",
+      "dim_check": true
+    },
+    {
+      "a": "\u03c7\u2083'",
+      "b": "\u03c7\u2083'",
+      "multiplicities": {
+        "\u03c7\u2081": 1,
+        "\u03c7\u2083": 0,
+        "\u03c7\u2083'": 1,
+        "\u03c7\u2084": 0,
+        "\u03c7\u2085": 1
+      },
+      "decomposition": "\u03c7\u2081 + \u03c7\u2083' + \u03c7\u2085",
+      "dim_check": true
+    },
+    {
+      "a": "\u03c7\u2083'",
+      "b": "\u03c7\u2084",
+      "multiplicities": {
+        "\u03c7\u2081": 0,
+        "\u03c7\u2083": 1,
+        "\u03c7\u2083'": 0,
+        "\u03c7\u2084": 1,
+        "\u03c7\u2085": 1
+      },
+      "decomposition": "\u03c7\u2083 + \u03c7\u2084 + \u03c7\u2085",
+      "dim_check": true
+    },
+    {
+      "a": "\u03c7\u2083'",
+      "b": "\u03c7\u2085",
+      "multiplicities": {
+        "\u03c7\u2081": 0,
+        "\u03c7\u2083": 1,
+        "\u03c7\u2083'": 1,
+        "\u03c7\u2084": 1,
+        "\u03c7\u2085": 1
+      },
+      "decomposition": "\u03c7\u2083 + \u03c7\u2083' + \u03c7\u2084 + \u03c7\u2085",
+      "dim_check": true
+    },
+    {
+      "a": "\u03c7\u2084",
+      "b": "\u03c7\u2084",
+      "multiplicities": {
+        "\u03c7\u2081": 1,
+        "\u03c7\u2083": 1,
+        "\u03c7\u2083'": 1,
+        "\u03c7\u2084": 1,
+        "\u03c7\u2085": 1
+      },
+      "decomposition": "\u03c7\u2081 + \u03c7\u2083 + \u03c7\u2083' + \u03c7\u2084 + \u03c7\u2085",
+      "dim_check": true
+    },
+    {
+      "a": "\u03c7\u2084",
+      "b": "\u03c7\u2085",
+      "multiplicities": {
+        "\u03c7\u2081": 0,
+        "\u03c7\u2083": 1,
+        "\u03c7\u2083'": 1,
+        "\u03c7\u2084": 1,
+        "\u03c7\u2085": 2
+      },
+      "decomposition": "\u03c7\u2083 + \u03c7\u2083' + \u03c7\u2084 + 2\u00d7\u03c7\u2085",
+      "dim_check": true
+    },
+    {
+      "a": "\u03c7\u2085",
+      "b": "\u03c7\u2085",
+      "multiplicities": {
+        "\u03c7\u2081": 1,
+        "\u03c7\u2083": 1,
+        "\u03c7\u2083'": 1,
+        "\u03c7\u2084": 2,
+        "\u03c7\u2085": 2
+      },
+      "decomposition": "\u03c7\u2081 + \u03c7\u2083 + \u03c7\u2083' + 2\u00d7\u03c7\u2084 + 2\u00d7\u03c7\u2085",
+      "dim_check": true
+    }
+  ],
+  "total_products": 15,
+  "key_fact": "\u03c7\u2083\u2297\u03c7\u2083' has no \u03c7\u2081 channel \u2014 matter-antimatter cannot annihilate to vacuum without a gauge boson",
+  "chi3_cross_chi3p": {
+    "\u03c7\u2081": 0,
+    "\u03c7\u2083": 0,
+    "\u03c7\u2083'": 0,
+    "\u03c7\u2084": 1,
+    "\u03c7\u2085": 1
+  }
+}

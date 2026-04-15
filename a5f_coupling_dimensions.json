@@ -1,0 +1,62 @@
+{
+  "title": "Coupling dimension table D(a,b) = \u03a3_c N(a,b,c)\u00b2",
+  "irrep_names": [
+    "\u03c7\u2081(1)",
+    "\u03c7\u2083(3)",
+    "\u03c7\u2083'(3)",
+    "\u03c7\u2084(4)",
+    "\u03c7\u2085(5)"
+  ],
+  "D_matrix": [
+    [
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    [
+      1,
+      3,
+      2,
+      3,
+      4
+    ],
+    [
+      1,
+      2,
+      3,
+      3,
+      4
+    ],
+    [
+      1,
+      3,
+      3,
+      5,
+      7
+    ],
+    [
+      1,
+      4,
+      4,
+      7,
+      11
+    ]
+  ],
+  "D_diagonal": [
+    1,
+    3,
+    3,
+    5,
+    11
+  ],
+  "D_self_couplings": {
+    "\u03c7\u2081(1)": 1,
+    "\u03c7\u2083(3)": 3,
+    "\u03c7\u2083'(3)": 3,
+    "\u03c7\u2084(4)": 5,
+    "\u03c7\u2085(5)": 11
+  },
+  "note": "D(a,b) counts the total squared fusion channels. Controls quark mass ratios."
+}

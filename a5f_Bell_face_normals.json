@@ -1,0 +1,15 @@
+{
+  "title": "Bell/CHSH optimised over dodecahedral face normals (\u00a7F.8)",
+  "S_face_numerical": 2.341641,
+  "S_face_exact": "(5 + 3\u221a5)/5",
+  "S_face_exact_value": 2.341641,
+  "Tsirelson_bound": 2.828427,
+  "deficit_below_Tsirelson_pct": 17.21,
+  "inter_face_angles_deg": [
+    63.43,
+    116.57
+  ],
+  "adjacent_face_cosine": 0.447214,
+  "adjacent_face_cosine_exact": "1/\u221a5",
+  "note": "CHSH is dimension-blind (S=2\u221a2 for all d\u22652). Use CGLMP for dimension-sensitive tests."
+}

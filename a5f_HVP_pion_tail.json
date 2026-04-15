@@ -1,0 +1,16 @@
+{
+  "title": "HVP pion-tail correction for muon g-2",
+  "a_mu_1024_single_cell": 6.48e-08,
+  "lattice_spacing_fm": 0.5943,
+  "m_pi_lattice_units": 0.4187,
+  "m_rho_lattice_units": 2.3343,
+  "rho_captured_1cell_pct": 100.0,
+  "pion_captured_1cell_pct": 87.7,
+  "pion_fraction_of_HVP": 0.7,
+  "total_correction_pct": 8.6,
+  "a_mu_corrected": 7.092e-08,
+  "a_mu_BMW": 7.07e-08,
+  "a_mu_SM_data_driven": 6.93e-08,
+  "agreement_BMW_pct": 0.3,
+  "key_insight": "\u03c7\u2084(C\u2082) = 0 \u2192 1024 computation already has 100% EM content. The 6.5% deficit is finite-size (pion tail), not truncation."
+}

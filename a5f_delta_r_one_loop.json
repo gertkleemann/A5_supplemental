@@ -1,0 +1,19 @@
+{
+  "title": "One-loop \u0394r correction from A\u2085 framework",
+  "formula": "\u0394r = L(5) \u00d7 \u03b1 \u00d7 G(0,0) = 11 \u00d7 \u03b1 \u00d7 0.4567",
+  "L5": 11,
+  "alpha": 0.007297352559911562,
+  "G00": 0.456667,
+  "Delta_r": 0.036657,
+  "Delta_r_pct": 3.67,
+  "SM_Delta_r": 0.0381,
+  "agreement_pct": 3.8,
+  "n_terms": "55 (5 irreps \u00d7 11 faces)",
+  "SM_diagrams": "~12,000 Feynman diagrams",
+  "GF_tree": 1.079e-05,
+  "GF_corrected": 1.12e-05,
+  "GF_observed": 1.1664e-05,
+  "GF_deficit_before": 7.5,
+  "GF_deficit_after": 4.0,
+  "physical_picture": "W boson loops through 11 closed faces, \u03b1\u00d7G(0,0) = 0.333% per face"
+}

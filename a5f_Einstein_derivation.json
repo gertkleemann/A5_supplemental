@@ -1,0 +1,14 @@
+{
+  "title": "Einstein's equations from Plancherel action variation",
+  "dihedral_angle_deg": 116.5651,
+  "three_cells_deg": 349.6952,
+  "deficit_angle_deg": 10.3048,
+  "deficit_angle_rad": 0.179853,
+  "total_Regge_action": 5.3956,
+  "vacuum_equation": "S(C) = 1 for all non-trivial C = uniform curvature = de Sitter",
+  "variation": "\u03b4S/\u03b4n_\u03c1 = dim(\u03c1)/60 \u2192 G_\u03bc\u03bd = 8\u03c0G T_\u03bc\u03bd in continuum limit",
+  "G_lattice": "1/(60\u03c0)",
+  "G_physical": "1/(\u039b\u00b2 \u00d7 60\u00b2\u00b2)",
+  "G_over_alpha": "1/\u03c0 (gravity weaker than EM by exactly 1/\u03c0)",
+  "note": "Same action gives force unification AND gravity. No separate gravity sector."
+}

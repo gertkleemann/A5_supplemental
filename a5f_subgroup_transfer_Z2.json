@@ -1,0 +1,20 @@
+{
+  "title": "Z\u2082 subgroup transfer matrix sector",
+  "subgroup": "Z\u2082",
+  "irreps_used": [
+    "\u03c7\u2081(1)",
+    "\u03c7\u2085(5)"
+  ],
+  "n_irreps": 2,
+  "dims": [
+    1,
+    5
+  ],
+  "sum_dim_sq": 26,
+  "n_face_configs": 32,
+  "3j_nonzero": 5,
+  "mass_gap": 0.6931471805599453,
+  "mass_gap_exact": "ln(2)",
+  "mass_MeV": 230.1,
+  "note": "Mass gap = ln(2) exactly \u2014 a mathematical identity"
+}

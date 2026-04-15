@@ -1,0 +1,104 @@
+{
+  "2_connected_correlator": {
+    "glueball": {
+      "plateau_MeV": 1440.7,
+      "std": 0.0,
+      "match": "Roper",
+      "error_pct": 0.05
+    },
+    "meson": {
+      "plateau_MeV": 1440.8,
+      "std": 1.1,
+      "match": "Roper",
+      "error_pct": 0.06
+    },
+    "baryon": {
+      "plateau_MeV": 1440.8,
+      "std": 2.2,
+      "match": "Roper",
+      "error_pct": 0.06
+    },
+    "vector": {
+      "plateau_MeV": 1444.7,
+      "std": 17.0,
+      "match": "Roper",
+      "error_pct": 0.33
+    }
+  },
+  "3_negative_eigenvalues": {
+    "n_negative": 1589,
+    "lightest_neg_mass": {
+      "mass_MeV": 1490.6,
+      "match": "Roper",
+      "error": 3.51
+    },
+    "masses": [
+      {
+        "mass_MeV": 1490.6,
+        "match": "Roper",
+        "error": 3.51
+      },
+      {
+        "mass_MeV": 1565.0,
+        "match": "Roper",
+        "error": 8.68
+      },
+      {
+        "mass_MeV": 1614.3,
+        "match": "Roper",
+        "error": 12.1
+      },
+      {
+        "mass_MeV": 1854.2,
+        "match": "Roper",
+        "error": 28.76
+      },
+      {
+        "mass_MeV": 2325.6,
+        "match": "Roper",
+        "error": 61.5
+      },
+      {
+        "mass_MeV": 2617.8,
+        "match": "Roper",
+        "error": 81.79
+      },
+      {
+        "mass_MeV": 2918.6,
+        "match": "Roper",
+        "error": 102.68
+      },
+      {
+        "mass_MeV": 2927.8,
+        "match": "Roper",
+        "error": 103.32
+      },
+      {
+        "mass_MeV": 3369.1,
+        "match": "Roper",
+        "error": 133.96
+      },
+      {
+        "mass_MeV": 3482.0,
+        "match": "Roper",
+        "error": 141.8
+      }
+    ]
+  },
+  "4_icosahedral_dirac": {
+    "n_vertices": 12,
+    "n_edges": 30,
+    "eigenvalues": [
+      1.176,
+      2.629,
+      3.078
+    ],
+    "mass_gap": 1.176
+  },
+  "5_face_pair_entanglement": {
+    "1|4": 0.01457216,
+    "2|3": 0.01004245,
+    "3|2": 0.01565712,
+    "4|1": 0.01452655
+  }
+}

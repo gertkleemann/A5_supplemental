@@ -1,0 +1,76 @@
+{
+  "1_proton_dark_content": {
+    "state_1": {
+      "mass_MeV": 1440.7,
+      "chi1_pct": 1.79,
+      "chi3_pct": 6.863,
+      "chi3p_pct": 6.863,
+      "chi4_pct": 24.141,
+      "chi5_pct": 60.344
+    },
+    "state_3": {
+      "mass_MeV": 1526.9,
+      "chi1_pct": 2.092,
+      "chi3_pct": 12.06,
+      "chi3p_pct": 12.06,
+      "chi4_pct": 19.863,
+      "chi5_pct": 53.924
+    },
+    "state_5": {
+      "mass_MeV": 1603.5,
+      "chi1_pct": 1.125,
+      "chi3_pct": 16.229,
+      "chi3p_pct": 16.229,
+      "chi4_pct": 30.786,
+      "chi5_pct": 35.631
+    },
+    "state_7": {
+      "mass_MeV": 1837.5,
+      "chi1_pct": 0.559,
+      "chi3_pct": 14.283,
+      "chi3p_pct": 14.283,
+      "chi4_pct": 28.737,
+      "chi5_pct": 42.138
+    }
+  },
+  "2_vacuum_overlap": {
+    "visible_weight_in_shared": 0.000612,
+    "dark_weight_in_shared": 0.014277,
+    "overlap": 0.99999,
+    "overlap_sq": 0.999981
+  },
+  "3_missing_60th_mode": {
+    "n_positive_dark_fermionic": 59,
+    "smallest_positive_eigenvalue": 1.174146119840437e+26,
+    "dying_mode_dominant_irrep": "\u03c1\u2082'(2)",
+    "dying_mode_composition": {
+      "\u03c1\u2082(2)": 26.93,
+      "\u03c1\u2082'(2)": 29.97,
+      "\u03c1\u2084'(4)": 21.01,
+      "\u03c1\u2085(5)": 11.26,
+      "\u03c1\u2086(6)": 10.83
+    }
+  },
+  "4_gap_ratio": {
+    "gap_matter_antimatter": 2.207,
+    "gap_QED": 4.394,
+    "ratio_QED_over_mm": 1.990938,
+    "deviation_from_2": 0.009062,
+    "all_ratios": {
+      "\u03c7\u2083+\u03c7\u2083'": 1.0,
+      "\u03c7\u2083+\u03c7\u2085 (QED)": 1.990938,
+      "\u03c7\u2083+\u03c7\u2083'+\u03c7\u2084 (portal)": 1.347077,
+      "\u03c7\u2081+\u03c7\u2084 (V4)": 1.81604,
+      "\u03c7\u2084+\u03c7\u2085 (dark photon)": 1.894427,
+      "\u03c7\u2081+\u03c7\u2084+\u03c7\u2085 (dark annihil)": 1.857725
+    }
+  },
+  "5_V4_vacuum": {
+    "chi1_fraction": 0.004845892789317199,
+    "chi4_fraction": 0.9951541072106825,
+    "best_match": "1/200",
+    "best_match_error_pct": 3.1802,
+    "is_1_over_60": 70.9246,
+    "is_1_over_17": 91.762
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Speed of light c = \u221a(\u03bb_ico/\u03bb_dodec) from eigenvalue ratio",
+  "chi3_eigenvalue_dodec": 0.76393202,
+  "chi3_eigenvalue_icosa": 2.76393202,
+  "c_squared": 3.61803399,
+  "c_squared_exact": "\u03c6 + 2",
+  "c_value": 1.90211303,
+  "verification": 3.61803399,
+  "note": "Not a free parameter \u2014 fixed by eigenvalue ratio of dual pair"
+}

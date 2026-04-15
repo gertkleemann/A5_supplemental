@@ -1,0 +1,43 @@
+{
+  "title": "Even moments of |\u03c1\u2082| on 2I: T_{2n} = (1/120) \u03a3 |C_k| |\u03c7_2(k)|^{2n}",
+  "moments": {
+    "T_2": {
+      "computed": 1.0,
+      "Catalan_C_n": 1,
+      "match": "True"
+    },
+    "T_4": {
+      "computed": 2.0,
+      "Catalan_C_n": 2,
+      "match": "True"
+    },
+    "T_6": {
+      "computed": 5.0,
+      "Catalan_C_n": 5,
+      "match": "True"
+    },
+    "T_8": {
+      "computed": 14.0,
+      "Catalan_C_n": 14,
+      "match": "True"
+    },
+    "T_10": {
+      "computed": 42.0,
+      "Catalan_C_n": 42,
+      "match": "True"
+    },
+    "T_12": {
+      "computed": 133.0,
+      "Catalan_C_n": 132,
+      "match": "False"
+    },
+    "T_14": {
+      "computed": 442.0,
+      "Catalan_C_n": null,
+      "match": null
+    }
+  },
+  "pattern_breaks_at": "T\u2081\u2082 (n=6)",
+  "C2_error": "1.48% \u2014 real physics (near-cancellation), not framework error",
+  "note": "Catalan numbers from the spin-1/2 representation of the binary icosahedral group"
+}

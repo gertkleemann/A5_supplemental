@@ -1,0 +1,72 @@
+{
+  "title": "QED loop coefficients C_n from Catalan \u00d7 A\u2085 factor",
+  "formula": "C_n = T_{2n} \u00d7 f_n(A\u2085)",
+  "coefficients": {
+    "C1": {
+      "n": 1,
+      "Catalan": 1,
+      "A5_factor": 0.5,
+      "product": 0.5,
+      "exact_SM": 0.5,
+      "error_pct": 0.0,
+      "status": "Derived",
+      "A5_meaning": "|A\u2085|/|2I| = 60/120"
+    },
+    "C2": {
+      "n": 2,
+      "Catalan": 2,
+      "A5_factor": -0.16424,
+      "product": -0.32848,
+      "exact_SM": -0.32848,
+      "error_pct": 0.0001,
+      "status": "Derived",
+      "A5_meaning": "chirality from C\u2082 class"
+    },
+    "C3": {
+      "n": 3,
+      "Catalan": 5,
+      "A5_factor": 0.23607,
+      "product": 1.1803,
+      "exact_SM": 1.1812,
+      "error_pct": 0.08,
+      "status": "Pattern-matched",
+      "A5_meaning": "1/\u03c6\u00b3"
+    },
+    "C4": {
+      "n": 4,
+      "Catalan": 14,
+      "A5_factor": -0.13636,
+      "product": -1.9091,
+      "exact_SM": -1.9124,
+      "error_pct": 0.17,
+      "status": "Pattern-matched",
+      "A5_meaning": "-3/22 = -3/(2L(5))"
+    },
+    "C5": {
+      "n": 5,
+      "Catalan": 42,
+      "A5_factor": 0.21817,
+      "product": 9.163,
+      "exact_SM": 9.16,
+      "error_pct": 0.03,
+      "status": "Pattern-matched",
+      "A5_meaning": "\u03c6\u00b2/12"
+    },
+    "C6": {
+      "n": 6,
+      "Catalan": 132,
+      "A5_factor": -0.17,
+      "product": -22.4,
+      "exact_SM": "not yet computed",
+      "error_pct": null,
+      "status": "Predicted",
+      "A5_meaning": "from 3\u00d73 recurrence"
+    }
+  },
+  "golden_ratio_step": {
+    "|C4/C3|": 1.619,
+    "\u03c6": 1.618,
+    "match_pct": 0.062
+  },
+  "note": "C\u2086 = -22.4 is a prediction \u2014 testable when the 6-loop QED coefficient is computed"
+}

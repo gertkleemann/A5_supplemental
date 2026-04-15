@@ -1,0 +1,22 @@
+{
+  "title": "Icosahedral boundary transfer matrix (\u03c7\u2081+\u03c7\u2083+\u03c7\u2083', 27\u00d727)",
+  "sector": [
+    0,
+    1,
+    2
+  ],
+  "irreps": [
+    "\u03c7\u2081(1)",
+    "\u03c7\u2083(3)",
+    "\u03c7\u2083'(3)"
+  ],
+  "n_configs": 27,
+  "T_max": 7.35e+26,
+  "mass_gap": 0.944,
+  "muon_mass_extracted": 104.5,
+  "muon_mass_observed": 105.658,
+  "muon_mass_error_pct": 1.1,
+  "formula": "m_\u03bc = \u039b \u00d7 ln(T_bulk/T_boundary) / dim(\u03c7\u2083)",
+  "T_bulk_used": 1.889516e+27,
+  "note": "Pre-computed. Full matrix in icosa_boundary_progress.json"
+}

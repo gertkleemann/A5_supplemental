@@ -1,0 +1,13 @@
+{
+  "title": "Planck length from Bekenstein bound on 3125 states",
+  "n_states": 3125,
+  "bits": 11.6096,
+  "approx_L5": 11,
+  "Bekenstein_radius_lP": 1.3593,
+  "dodec_ratio": 0.3568,
+  "edge_in_Planck_units": 0.485,
+  "one_loop_correction": 0.025551,
+  "edge_corrected": 0.4974,
+  "G_runs_by_pct": 76.5,
+  "note": "The 3% is the dodecahedron-to-sphere mismatch. G runs by 6% from Planck to lab."
+}

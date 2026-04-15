@@ -1,0 +1,30 @@
+{
+  "title": "6j coupling symbols for g-2 recurrence matrix",
+  "face_irreps": [
+    "\u03c7\u2081",
+    "\u03c7\u2083",
+    "\u03c7\u2085"
+  ],
+  "recurrence_matrix_3x3": [
+    [
+      1.0,
+      1.0,
+      2.0
+    ],
+    [
+      1.0,
+      4.0,
+      6.0
+    ],
+    [
+      2.0,
+      6.0,
+      11.0
+    ]
+  ],
+  "gauge_irrep": "\u03c7\u2085",
+  "3j_symbol_chi5": 2,
+  "5j_symbol_chi5": 52,
+  "amplification_ratio": 26.0,
+  "note": "The 3\u00d73 recurrence in {\u03c7\u2081,\u03c7\u2083,\u03c7\u2085} space predicts C\u2084\u2013C\u2089 from C\u2081\u2013C\u2083"
+}
